@@ -9,7 +9,7 @@
         <option name="gradleHome" value="/usr/local/Cellar/gradle/4.9/libexec" />
         <option name="modules">
           <set>
-            <option value="/private/tmp/proba" />
+            <option value="$PROJECT_DIR$" />
           </set>
         </option>
       </GradleProjectSettings>
